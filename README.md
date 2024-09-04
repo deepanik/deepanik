@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **AI/ML , MEARN**
 
-- 📫 How to reach me **devdeepanik0@gmail.com**
+- 📫 How to reach me **mailto:devdeepanik@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
