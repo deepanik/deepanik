@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ML/Blockchain**
 
-- 💬 Ask me about **AI/ML , MEARN**
+- 💬 Portfolio **https://www.deepanik.com/**
 
 - 📫 How to reach me **mailto:devdeepanik@gmail.com**
 
